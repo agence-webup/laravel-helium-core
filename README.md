@@ -3,8 +3,8 @@
 Laravel Admin made with Helium UI
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/webup/laravel-helium-core.svg?style=flat-square)](https://packagist.org/packages/webup/laravel-helium-core)
-[![tests](https://github.com/agence-webup/helium-ui/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/agence-webup/helium-ui/actions/workflows/tests.yml)
-[![pint](https://github.com/agence-webup/helium-ui/actions/workflows/pint.yml/badge.svg?branch=main)](https://github.com/agence-webup/helium-ui/actions/workflows/pint.yml)
+[![tests](https://github.com/agence-webup/laravel-helium-core/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/agence-webup/laravel-helium-core/actions/workflows/tests.yml)
+[![pint](https://github.com/agence-webup/laravel-helium-core/actions/workflows/pint.yml/badge.svg?branch=main)](https://github.com/agence-webup/laravel-helium-core/actions/workflows/pint.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/webup/laravel-helium-core.svg?style=flat-square)](https://packagist.org/packages/webup/laravel-helium-core)
 
 ## Installation
