@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Webup\LaravelHeliumCore\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelHeliumCoreCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-helium-core';
 
     public $description = 'My command';
 
